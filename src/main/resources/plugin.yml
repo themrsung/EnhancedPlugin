@@ -1,0 +1,4 @@
+name: EnhancedPlugin
+version: '${project.version}'
+main: jbs.enhancedplugin.EnhancedPlugin
+api-version: '1.20'
